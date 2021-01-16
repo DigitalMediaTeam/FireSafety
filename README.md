@@ -1,5 +1,5 @@
 # FireSafety
 Helping users in the event of a fire outbreak
 
-# Cloning
+## Cloning
 Please clone with Github desktop 
